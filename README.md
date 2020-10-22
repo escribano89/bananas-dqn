@@ -15,7 +15,7 @@ This is the first project of the Deep Reinforcement Learning nanodegree. The goa
         
 For each yellow banana that is collected, the agent is given a reward of +1. The blue ones give -1 reward. We consider that the problem is solved if the agent receives an average reward (over 100 episodes) of at least +13.
 
-The project has been developed using the *Lunar Landing* solution project as a foundation.
+The project has been developed using the Udacity's *Lunar Landing*  project solution as a foundation.
         
 ## Requirements
 In order to prepare the environment, follow the next steps after downloading this repository:
