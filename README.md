@@ -81,3 +81,5 @@ By default, the main.py file is prepared to test our model.
 ## Video
 
 You can find an example of the trained agent [here](https://youtu.be/sDLG-Xxp-l8)
+
+[![Navigation](https://img.youtube.com/vi/sDLG-Xxp-l8/0.jpg)](https://www.youtube.com/watch?v=sDLG-Xxp-l8)
