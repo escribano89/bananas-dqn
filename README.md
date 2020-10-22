@@ -86,6 +86,8 @@ By default, the main.py file is prepared to test our model.
 * Episode 740	Average Score: 14.03
 * Environment solved in **640 episodes**!	Average Score: **14.03**
 
+[![Training](https://drive.google.com/file/d/1xiRUxCaC35GzYtSItL4uXxBaEy2B2bKP/view?usp=sharing)]
+
 ## Video
 
 You can find an example of the trained agent [here](https://youtu.be/sDLG-Xxp-l8)
