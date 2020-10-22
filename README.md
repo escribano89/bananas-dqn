@@ -72,7 +72,7 @@ By default, the main.py file is prepared to test our model.
 * utils/replay_buffer: a class for handling the experience replay
 * python/: needed files to run the unity environment
 * main.py: Entry point to train or test the agent
-* checkpoint.pth: Our model's weights ***(Solved in less than 700 episodes)***
+* checkpoint.pth: Our model's weights ***(Solved in less than 800 episodes)***
 
 ## Trace of the training
 
@@ -84,7 +84,7 @@ By default, the main.py file is prepared to test our model.
 * Episode 600	Average Score: 11.52
 * Episode 700	Average Score: 13.79
 * Episode 740	Average Score: 14.03
-* Environment solved in **640 episodes**!	Average Score: **14.03**
+* Environment solved in **740 episodes**!	Average Score: **14.03**
 
 ![Training](https://github.com/escribano89/bananas-dqn/blob/main/training.png)
 
