@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from unityagents import UnityEnvironment
 from agents.deep_q_network import DQN
+import matplotlib.pyplot as plt
+import numpy as np
 
 banana_executable_path = "D:\\source\\bananas-dqn\\Banana.exe"
 # Prepare the unity environment
@@ -19,6 +21,14 @@ if is_training:
     # Use our DQN agent to train the model
     agent = DQN(state_size, action_size)
     scores = agent.train(env, brain_name)
+    
+    # Plot the scores
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    plt.plot(np.arange(len(scores)), scores)
+    plt.ylabel('Score')
+    plt.xlabel('Episode #')
+    plt.show()
 
 else:
     # test the trained agent
@@ -29,3 +39,5 @@ else:
 
 # Close the environment
 env.close()
+
+
