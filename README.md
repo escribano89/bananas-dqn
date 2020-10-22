@@ -67,9 +67,9 @@ By default, the main.py file is prepared to test our model.
 ## Resources
 
 * report.pdf: A document that describes the details of the implementation and future proposals.
-* agents/deep_q_network: the implemented agent following a deep q network architecture
+* agents/deep_q_network: the implemented agent using a deep q network architecture
 * models/neural_network: the neural network model
-* utils/replay_buffer: a class for handling the experience replay in our model
+* utils/replay_buffer: a class for handling the experience replay
 * python/: needed files to run the unity environment
 * main.py: Entry point to train or test the agent
 * checkpoint.pth: Our model's weights ***(Solved in less than 700 episodes)***
