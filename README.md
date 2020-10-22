@@ -13,7 +13,9 @@ This is the first project of the Deep Reinforcement Learning nanodegree. The goa
         Vector Action space size (per agent): 4
         Vector Action descriptions: , , , 
         
-For each yellow banana that is collected, the agent is given a reward of +1. The blue ones give -1 reward. We consider that the problem is solved if the agent receives an average reward (over 100 episodes) of at least +13
+For each yellow banana that is collected, the agent is given a reward of +1. The blue ones give -1 reward. We consider that the problem is solved if the agent receives an average reward (over 100 episodes) of at least +13.
+
+The project has been developed using the *Lunar Landing* solution project as a foundation.
         
 ## Requirements
 In order to prepare the environment, follow the next steps after downloading this repository:
