@@ -59,7 +59,7 @@ In order to prepare the environment, follow the next steps after downloading thi
 
 ## Getting started
 
-If you want to train the agent, execute the **main.py** file setting the ***is_training*** variable to True. Otherwise if you want to test your agent set that variable to False. 
+If you want to train the agent, execute the **main.py** file setting the ***is_training*** variable to True. Otherwise if you want to test your agent then set that variable to False. 
 In case of reaching the goal the weights of the neural network will be stored in the checkpoint file in the root folder.
 
 By default, the main.py file is prepared to test our model.
