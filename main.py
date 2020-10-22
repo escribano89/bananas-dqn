@@ -35,8 +35,6 @@ else:
     agent = DQN(state_size, action_size)
     agent.test(env, brain_name, 'checkpoint.pth' )
 
-# Show the result of our training
-
 # Close the environment
 env.close()
 
