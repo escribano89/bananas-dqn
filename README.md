@@ -86,7 +86,7 @@ By default, the main.py file is prepared to test our model.
 * Episode 740	Average Score: 14.03
 * Environment solved in **640 episodes**!	Average Score: **14.03**
 
-[![Training](https://drive.google.com/uc?export=view&id=<1xiRUxCaC35GzYtSItL4uXxBaEy2B2bKP>)]
+[![Training](https://github.com/escribano89/bananas-dqn/blob/main/training.png)]
 
 ## Video
 
