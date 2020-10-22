@@ -76,7 +76,15 @@ By default, the main.py file is prepared to test our model.
 
 ## Trace of the training
 
-
+* Episode 100	Average Score: 1.52
+* Episode 200	Average Score: 6.27
+* Episode 300	Average Score: 8.84
+* Episode 400	Average Score: 10.87
+* Episode 500	Average Score: 11.69
+* Episode 600	Average Score: 11.52
+* Episode 700	Average Score: 13.79
+* Episode 740	Average Score: 14.03
+* Environment solved in **640 episodes**!	Average Score: **14.03**
 
 ## Video
 
